@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "What is your product?",
+      "answer": "Our product is an AI-powered chatbot for answering FAQs."
+    },
+    {
+      "question": "How does it work?",
+      "answer": "It uses NLP to understand queries and find relevant answers."
+    },
+    {
+      "question": "What programming languages does it support?",
+      "answer": "The chatbot supports Python and JavaScript."
+    },
+    {
+      "question": "Can I integrate it with my website?",
+      "answer": "Yes! You can integrate it using an API or embedding."
+    }
+  ]
+}
